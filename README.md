@@ -1,7 +1,4 @@
- ____ ____ ____ ____ ____ 
-||H |||e |||l |||l |||o ||
-||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|
+figlet "Hello"
 My name is Alex and I am a student learing about Python.
 I am currently working on creating a slot machine with a Dot Matrix.
 
