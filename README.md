@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello,
+My name is Alex and I am a student learing about Python.
+I am currently working on creating a slot machine with a Dot Matrix.
 
 <!--
 **alexc224/alexc224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
